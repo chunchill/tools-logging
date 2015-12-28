@@ -1,5 +1,8 @@
-tools-logging
+DEPRICATED: http://git.openstack.org/cgit/openstack/osops-tools-logging/
 =============
+
+tools-logging
+-------------
 
 OpenStack Logging Tools
 
